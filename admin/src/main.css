@@ -14,3 +14,12 @@ ul {
   padding: 0px;
   list-style: none;
 }
+/* 字体加粗的公共样式 */
+.fw-550 {
+  margin-left: 8px;
+  font-weight: 550;
+}
+span {
+  font-size: 14px !important;
+  color: #464545;
+}
